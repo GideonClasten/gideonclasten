@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gideon Clasten</h1>
+**`Cybersikkerhet entusiast`**
+
 <h3 align="center">Navnet mitt er Gideon Clasten, og akkurat nå er jeg en cybersikkerhet student som er interessert i å holde det som skal være privat, privat :) Gjennom Github profilen min kan du finne mye forskjell prosjekter. Er en person som liker å sette foten i vannet, så liker å sette i gang spontane prosjekter.</h3>
 
 - 📫 How to reach me **giddienoch@gmail.com**
